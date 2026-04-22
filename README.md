@@ -2,9 +2,9 @@
 
 This repository currently contains only three files:
 
-- `/home/runner/work/Project2/Project2/index.html`
-- `/home/runner/work/Project2/Project2/app.js`
-- `/home/runner/work/Project2/Project2/README.md`
+- `index.html`
+- `app.js`
+- `README.md`
 
 There is **no implemented APK/file upload, backend API, scanning pipeline, ML inference flow, or output rendering logic** in the current `main` code.
 
